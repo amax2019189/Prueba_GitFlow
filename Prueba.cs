@@ -12,7 +12,8 @@ namespace Prueba
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Mensaje de Prueba");
+            Console.WriteLine("Mensaje de la rama Feature");
+            Console.WriteLine("Mensaje de la rama Release");
 
             Console.ReadLine();
         }
